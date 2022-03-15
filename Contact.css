@@ -1,0 +1,51 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 343px;
+}
+
+.u-section-1 .u-text-1 {
+  font-family: "Lexend Zetta";
+  margin: 27px auto 0;
+}
+
+.u-section-1 .u-image-1 {
+  width: 163px;
+  height: 163px;
+  margin: 44px 268px 0 auto;
+}
+
+.u-section-1 .u-image-2 {
+  width: 163px;
+  height: 163px;
+  margin: -163px auto 60px 233px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-text-1 {
+    margin-top: 170px;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-top: -138px;
+  }
+
+  .u-section-1 .u-image-2 {
+    margin-top: -21px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-image-1 {
+    margin-top: -177px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-image-1 {
+    margin-top: -138px;
+    margin-right: 177px;
+  }
+
+  .u-section-1 .u-image-2 {
+    margin-left: 177px;
+  }
+}

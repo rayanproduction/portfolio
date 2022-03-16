@@ -36429,13 +36429,16 @@ a.u-link.u-text-hover-grey-90:hover {
 .u-header .u-text-1 {
   font-family: "Lexend Zetta";
   font-weight: 700;
-  margin: 100px auto 7px;
+  margin: 100px auto 0;
+}
+
+.u-header .u-line-2 {
+  width: 500px;
+  height: 3px;
+  transform-origin: right center 0px;
+  margin: 3px auto 0;
 }
 @media (max-width: 1199px) {
-  .u-header .u-sheet-1 {
-    min-height: 230px;
-  }
-
   .u-header .u-shape-1 {
     width: 241px;
     margin-top: -184px;
@@ -36444,89 +36447,29 @@ a.u-link.u-text-hover-grey-90:hover {
   .u-header .u-menu-1 {
     margin-top: -96px;
   }
+
+  .u-header .u-line-2 {
+    width: 500px;
+  }
 }
 @media (max-width: 991px) {
-  .u-header .u-image-1 {
-    margin-top: -29px;
-    margin-right: -23px;
-    margin-left: auto;
-  }
-
-  .u-header .u-shape-1 {
-    margin-top: -183px;
-    margin-right: 63px;
-    margin-left: auto;
-  }
-
   .u-header .u-menu-1 {
-    margin-top: -77px;
-  }
-
-  .u-header .u-line-1 {
-    margin-top: 159px;
-    margin-right: auto;
-  }
-
-  .u-header .u-text-1 {
-    margin-top: -52px;
-    margin-bottom: 11px;
-  }
-}
-@media (max-width: 767px) {
-  .u-header .u-sheet-1 {
-    min-height: 342px;
-  }
-
-  .u-header .u-image-1 {
-    margin-top: 75px;
-  }
-
-  .u-header .u-shape-1 {
-    margin-top: -184px;
-    margin-right: 63px;
-  }
-
-  .u-header .u-menu-1 {
-    margin-top: -64px;
-    margin-right: auto;
-    margin-left: 0;
-  }
-
-  .u-header .u-line-1 {
-    margin-top: 175px;
-  }
-
-  .u-header .u-text-1 {
     width: auto;
-    margin-top: -62px;
-    margin-bottom: 0;
+    margin-top: -64px;
+  }
+
+  .u-header .u-text-1 {
+    margin-top: 68px;
   }
 }
+
 @media (max-width: 575px) {
-  .u-header .u-sheet-1 {
-    min-height: 327px;
-  }
-
-  .u-header .u-image-1 {
-    margin-top: 68px;
-    margin-left: -14px;
-  }
-
-  .u-header .u-shape-1 {
-    margin-top: -189px;
-    margin-right: 28px;
-  }
-
-  .u-header .u-menu-1 {
-    margin-top: -53px;
-  }
-
   .u-header .u-line-1 {
     width: 340px;
   }
 
-  .u-header .u-text-1 {
-    margin: 63px 26px 52px;
+  .u-header .u-line-2 {
+    width: 340px;
   }
 }
  .u-footer {

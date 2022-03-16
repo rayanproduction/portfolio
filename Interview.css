@@ -56,11 +56,13 @@
   .u-section-1 .u-image-1 {
     width: 440px;
     height: 288px;
-    margin-top: -32px;
+    margin-top: -12px;
   }
 
   .u-section-1 .u-image-2 {
     height: 438px;
+    margin-top: 15px;
+    margin-bottom: 39px;
     width: auto;
     margin-right: initial;
     margin-left: initial;

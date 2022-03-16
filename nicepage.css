@@ -36468,8 +36468,15 @@ a.u-link.u-text-hover-grey-90:hover {
     width: 340px;
   }
 
+  .u-header .u-text-1 {
+    width: auto;
+    margin-left: 26px;
+    margin-right: 26px;
+  }
+
   .u-header .u-line-2 {
     width: 340px;
+    margin-bottom: 26px;
   }
 }
  .u-footer {

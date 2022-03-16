@@ -22,6 +22,7 @@
 
 .u-section-1 .u-text-1 {
   width: 680px;
+  font-size: 1rem;
   margin: 22px auto 38px;
 }
 
@@ -54,7 +55,6 @@
 
   .u-section-1 .u-text-1 {
     width: auto;
-    font-size: 1rem;
     margin-left: 0;
     margin-right: 0;
     margin-bottom: 60px;

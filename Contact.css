@@ -4,100 +4,73 @@
 
 .u-section-1 .u-text-1 {
   font-family: "Lexend Zetta";
-  margin: 27px 0 0 101px;
+  margin: 0 51px;
 }
 
 .u-section-1 .u-image-1 {
-  width: 265px;
-  height: 265px;
-  margin: 27px auto 0 841px;
+  width: 185px;
+  height: 185px;
+  margin: 105px auto 0 100px;
 }
 
 .u-section-1 .u-image-2 {
-  width: 274px;
-  height: 229px;
-  margin: -248px auto 0 416px;
+  width: 570px;
+  height: 428px;
+  margin: -306px auto 0;
 }
 
 .u-section-1 .u-image-3 {
-  width: 214px;
-  height: 214px;
-  margin: -221px auto 60px 34px;
+  width: 219px;
+  height: 219px;
+  margin: -323px 69px 60px auto;
 }
 
 @media (max-width: 1199px) {
   .u-section-1 .u-text-1 {
-    width: auto;
-    margin-top: 52px;
-    margin-left: 83px;
-    margin-right: 83px;
-  }
-
-  .u-section-1 .u-image-1 {
-    margin-top: 26px;
-    margin-left: 658px;
-  }
-
-  .u-section-1 .u-image-2 {
-    margin-top: -247px;
-    margin-left: auto;
-  }
-
-  .u-section-1 .u-image-3 {
-    margin-left: 17px;
-  }
-}
-
-@media (max-width: 991px) {
-  .u-section-1 .u-text-1 {
     margin-left: 0;
     margin-right: 0;
-  }
-
-  .u-section-1 .u-image-1 {
-    margin-left: 438px;
-  }
-
-  .u-section-1 .u-image-2 {
-    margin-top: 0;
-  }
-
-  .u-section-1 .u-image-3 {
-    margin-top: -468px;
   }
 }
 
 @media (max-width: 767px) {
-  .u-section-1 .u-image-1 {
-    margin-left: 258px;
+  .u-section-1 .u-sheet-1 {
+    min-height: 607px;
+  }
+
+  .u-section-1 .u-image-2 {
+    width: 540px;
+    height: 405px;
+  }
+
+  .u-section-1 .u-image-3 {
+    margin-top: -300px;
   }
 }
 
 @media (max-width: 575px) {
-  .u-section-1 .u-text-1 {
-    margin-top: 32px;
-    margin-left: 28px;
-    margin-right: 28px;
+  .u-section-1 .u-sheet-1 {
+    min-height: 420px;
   }
 
   .u-section-1 .u-image-1 {
-    width: 90px;
-    height: 90px;
-    margin-top: 49px;
+    width: 58px;
+    height: 58px;
+    margin-top: 53px;
+    margin-right: 16px;
     margin-left: auto;
   }
 
   .u-section-1 .u-image-2 {
-    width: 92px;
-    height: 77px;
-    margin-top: -83px;
-    margin-right: 16px;
+    height: 127px;
+    width: 169px;
+    margin-top: -94px;
   }
 
   .u-section-1 .u-image-3 {
-    width: 80px;
-    height: 80px;
-    margin-top: -78px;
-    margin-left: 14px;
+    width: 63px;
+    height: 63px;
+    margin-top: -96px;
+    margin-right: auto;
+    margin-left: 26px;
   }
 }

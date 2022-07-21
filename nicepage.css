@@ -38206,13 +38206,13 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 @media (max-width: 575px) {
   .u-header .u-sheet-1 {
-    min-height: 343px;
+    min-height: 412px;
   }
 
   .u-header .u-menu-1 {
-    margin-top: 119px;
+    margin-top: 90px;
     margin-right: auto;
-    margin-left: 4px;
+    margin-left: 0;
   }
 
   .u-header .u-line-1 {
@@ -38221,7 +38221,8 @@ a.u-link.u-text-hover-grey-90:hover {
 
   .u-header .u-image-1 {
     height: 275px;
-    margin-top: -83px;
+    margin-top: 0;
+    margin-bottom: 15px;
     width: auto;
     margin-right: initial;
     margin-left: initial;

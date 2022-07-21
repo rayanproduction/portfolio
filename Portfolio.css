@@ -89,11 +89,12 @@
 
 @media (max-width: 1199px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 1261px;
+    min-height: 1137px;
   }
 
   .u-section-1 .u-text-1 {
     width: auto;
+    margin-top: 1px;
   }
 
   .u-section-1 .u-video-1 {
@@ -105,11 +106,13 @@
   }
 
   .u-section-1 .u-video-3 {
+    margin-top: 308px;
     margin-right: auto;
     margin-left: 98px;
   }
 
   .u-section-1 .u-video-4 {
+    margin-top: -472px;
     margin-left: 98px;
   }
 
@@ -118,15 +121,18 @@
   }
 
   .u-section-1 .u-video-6 {
-    margin-top: 20px;
+    margin-top: 48px;
     margin-right: 98px;
   }
 
   .u-section-1 .u-video-7 {
+    margin-top: 48px;
     margin-right: 98px;
   }
 
   .u-section-1 .u-video-8 {
+    margin-top: -212px;
+    margin-bottom: 60px;
     margin-left: 98px;
   }
 }
@@ -137,6 +143,7 @@
   }
 
   .u-section-1 .u-video-2 {
+    margin-top: 20px;
     margin-left: 323px;
   }
 
@@ -149,11 +156,11 @@
   }
 
   .u-section-1 .u-video-5 {
+    margin-top: 20px;
     margin-left: 323px;
   }
 
   .u-section-1 .u-video-6 {
-    margin-top: -205px;
     margin-left: 49px;
   }
 
@@ -162,7 +169,9 @@
   }
 
   .u-section-1 .u-video-8 {
+    margin-top: 20px;
     margin-left: 49px;
+    margin-bottom: 67px;
   }
 }
 
@@ -186,11 +195,15 @@
   .u-section-1 .u-video-7 {
     margin-left: 143px;
   }
+
+  .u-section-1 .u-video-8 {
+    margin-bottom: 60px;
+  }
 }
 
 @media (max-width: 575px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 2223px;
+    min-height: 2096px;
   }
 
   .u-section-1 .u-text-1 {
@@ -205,27 +218,31 @@
 
   .u-section-1 .u-video-2 {
     height: 207px;
-    margin-top: -207px;
-    width: 340px;
-    margin-left: auto;
+    margin-top: 48px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
   }
 
   .u-section-1 .u-video-3 {
     height: 207px;
-    width: 340px;
-    margin-top: -207px;
-    margin-left: 0;
+    margin-top: 303px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
   }
 
   .u-section-1 .u-video-4 {
     height: 207px;
-    width: 340px;
-    margin-left: 0;
+    margin-top: -462px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
   }
 
   .u-section-1 .u-video-5 {
     height: 207px;
-    margin-top: -207px;
+    margin-top: 1068px;
     margin-right: initial;
     margin-left: initial;
     width: auto;
@@ -233,7 +250,7 @@
 
   .u-section-1 .u-video-6 {
     height: 207px;
-    margin-top: -200px;
+    margin-top: -972px;
     margin-right: initial;
     margin-left: initial;
     width: auto;
@@ -248,7 +265,7 @@
 
   .u-section-1 .u-video-8 {
     height: 207px;
-    margin-top: -214px;
+    margin-top: 48px;
     margin-right: initial;
     margin-left: initial;
     width: auto;
@@ -445,7 +462,11 @@
 
 @media (max-width: 575px) {
   .u-section-2 .u-sheet-1 {
-    min-height: 2848px;
+    min-height: 2839px;
+  }
+
+  .u-section-2 .u-text-1 {
+    margin-top: 3px;
   }
 
   .u-section-2 .u-video-1 {
@@ -465,33 +486,39 @@
 
   .u-section-2 .u-video-3 {
     height: 207px;
-    width: 340px;
-    margin-top: 765px;
-    margin-right: 0;
+    margin-top: 797px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
   }
 
   .u-section-2 .u-video-4 {
     height: 207px;
-    width: 340px;
-    margin-top: -928px;
-    margin-left: 0;
+    margin-top: -960px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
   }
 
   .u-section-2 .u-video-5 {
     height: 207px;
-    width: 340px;
-    margin-right: 0;
+    margin-top: 44px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
   }
 
   .u-section-2 .u-video-6 {
     height: 207px;
-    width: 340px;
-    margin-left: 0;
+    margin-top: 44px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
   }
 
   .u-section-2 .u-video-7 {
     height: 207px;
-    margin-top: 270px;
+    margin-top: 295px;
     margin-right: initial;
     margin-left: initial;
     width: auto;
@@ -499,11 +526,12 @@
 
   .u-section-2 .u-text-3 {
     font-weight: 700;
-    margin-top: 60px;
+    margin-top: 46px;
   }
 
   .u-section-2 .u-video-8 {
     height: 207px;
+    margin-top: 63px;
     margin-right: initial;
     margin-left: initial;
     width: auto;

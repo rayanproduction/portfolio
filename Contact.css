@@ -3,7 +3,7 @@
 }
 
 .u-section-1 .u-text-1 {
-  font-family: "Lexend Zetta";
+  font-weight: 700;
   margin: 0 51px;
 }
 
@@ -27,6 +27,7 @@
 
 @media (max-width: 1199px) {
   .u-section-1 .u-text-1 {
+    font-family: Lato, sans-serif;
     margin-left: 0;
     margin-right: 0;
   }
